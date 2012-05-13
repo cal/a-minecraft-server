@@ -1,1 +1,9 @@
 *.jar
+*.txt
+*.log
+*.yml
+*.properties
+
+server/world
+server/world_nether
+server/world_the_end
