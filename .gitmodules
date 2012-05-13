@@ -1,0 +1,6 @@
+[submodule "build/Bukkit"]
+	path = build/Bukkit
+	url = https://github.com/Bukkit/Bukkit.git
+[submodule "build/CraftBukkit"]
+	path = build/CraftBukkit
+	url = https://github.com/Bukkit/CraftBukkit.git
