@@ -4,3 +4,6 @@
 [submodule "build/CraftBukkit"]
 	path = build/CraftBukkit
 	url = https://github.com/Bukkit/CraftBukkit.git
+[submodule "build/Daylight"]
+	path = build/Daylight
+	url = https://github.com/cal/Daylight.git
