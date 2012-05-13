@@ -7,3 +7,6 @@
 [submodule "build/Daylight"]
 	path = build/Daylight
 	url = https://github.com/cal/Daylight.git
+[submodule "build/ScaledMaps"]
+	path = build/ScaledMaps
+	url = https://github.com/cal/ScaledMaps.git
