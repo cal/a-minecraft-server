@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xincgc -Xmx1G -jar craftbukkit-*.jar
+java -Xmx1024M -Xms1024M craftbukkit-*.jar
