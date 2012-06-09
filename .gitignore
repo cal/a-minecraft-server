@@ -5,6 +5,8 @@
 *.jar
 *.log
 *.lck
+*.txt
+*.yml
 
 # folders
 server/world*
