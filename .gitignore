@@ -1,2 +1,10 @@
+# dotfiles hate
 .*
+
+# filetypes
 *.jar
+*.log
+*.lck
+
+# folders
+server/world*
