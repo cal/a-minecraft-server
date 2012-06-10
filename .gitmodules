@@ -13,3 +13,12 @@
 [submodule "build/NoCheatPlus"]
 	path = build/NoCheatPlus
 	url = https://github.com/NeatMonster/NoCheatPlus.git
+[submodule "build/WorldBorder"]
+	path = build/WorldBorder
+	url = https://github.com/Brettflan/WorldBorder.git
+[submodule "build/dynmap-api"]
+	path = build/dynmap-api
+	url = https://github.com/webbukkit/dynmap-api.git
+[submodule "build/DynmapCoreAPI"]
+	path = build/DynmapCoreAPI
+	url = https://github.com/webbukkit/DynmapCoreAPI.git

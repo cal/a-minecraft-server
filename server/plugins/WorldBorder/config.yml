@@ -1,0 +1,18 @@
+cfg-version: 5
+message: You have reached the edge of this world.
+round-border: true
+debug-mode: false
+whoosh-effect: false
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+dynmap-border-enabled: true
+dynmap-border-message: The border of the world.
+worlds:
+  world_nether:
+    x: 0.0
+    z: 0.0
+    radius: 64
+  world:
+    x: 0.0
+    z: 0.0
+    radius: 512

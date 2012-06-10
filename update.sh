@@ -8,4 +8,8 @@ rm -f server/*.jar
 find build/CraftBukkit -name "craftbukkit*.jar" -exec cp "{}" server/ \;
 
 # deploy plugins
-find build -name "*.jar" -not -path "*Bukkit*" -exec cp "{}" server/plugins/ \;
+find build/*/target -name "*.jar" \
+  -not -path "*Bukkit*" \
+  -not -path "*DynmapCoreAPI*" \
+  -not -path "*dynmap-api*" \
+  -exec cp "{}" server/plugins/ \;
