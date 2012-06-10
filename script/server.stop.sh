@@ -5,4 +5,6 @@
 sleep 10
 
 # force remove lockfile in case of crash
-rm ~/server/server.log.lck
+if [ -f /server/server.log.lck ]; then
+  rm ~/server/server.log.lck
+fi
