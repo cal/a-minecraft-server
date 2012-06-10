@@ -10,3 +10,6 @@
 [submodule "build/ScaledMaps"]
 	path = build/ScaledMaps
 	url = https://github.com/cal/ScaledMaps.git
+[submodule "build/NoCheatPlus"]
+	path = build/NoCheatPlus
+	url = https://github.com/NeatMonster/NoCheatPlus.git
